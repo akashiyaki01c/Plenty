@@ -1,0 +1,22 @@
+{
+    "title": "天ノ弱 8bit Remix",
+    "measures": [
+        { "bpm": 205, "beatCount": 4, "notes": [ 
+            {"position": 3, "leftLayer": 1, "rightLayer": 2, "type": "normal"}
+        ] },
+        { "bpm": 205, "beatCount": 4, "notes": [
+            {"position": 0, "leftLayer": 1, "rightLayer": 6, "type": "normal"},
+            {"position": 1.5, "leftLayer": 1, "rightLayer": 3, "type": "normal"},
+            {"position": 3, "leftLayer": 1, "rightLayer": 3, "type": "normal"}
+        ] },
+        { "bpm": 205, "beatCount": 4, "notes": [
+            {"position": 0, "leftLayer": 1, "rightLayer": 3, "type": "normal"},
+            {"position": 1, "leftLayer": 1, "rightLayer": 3, "type": "normal"},
+            {"position": 3, "leftLayer": 1, "rightLayer": 3, "type": "normal"},
+            {"position": 3.5, "leftLayer": 1, "rightLayer": 3, "type": "normal"}
+        ] },
+        { "bpm": 205, "beatCount": 4, "notes": [
+            {"position": 0, "endPosition": 4, "leftLayer": 1, "rightLayer": 3, "type": "hold"}
+        ] }
+    ]
+}
