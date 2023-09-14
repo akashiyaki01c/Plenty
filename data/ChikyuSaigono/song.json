@@ -3,13 +3,12 @@
     "audio": "./song.mp3",
     "measures": [
         { "bpm": 190, "beatCount": 4, "notes": [ 
-            {"position": 0, "leftLayer": 1, "rightLayer": 1, "type": "normal"}
+            {"position": 0.0, "leftLayer": 2, "rightLayer": 3, "type": "normal"},
+            {"position": 4.0, "leftLayer": 2, "rightLayer": 3, "type": "normal"},
+            {"position": 0.0, "endPosition": 4.0, "leftLayer": 1, "rightLayer": 1, "type": "hold"}
         ] },
         { "bpm": 190, "beatCount": 4, "notes": [ 
-            {"position": 0, "leftLayer": 1, "rightLayer": 6, "type": "normal"}
-        ] },
-        { "bpm": 190, "beatCount": 4, "notes": [ 
-            {"position": 0, "leftLayer": 0, "rightLayer": 11, "type": "normal"}
+            
         ] }
     ]
 }
