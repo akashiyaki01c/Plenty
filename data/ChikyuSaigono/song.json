@@ -3,12 +3,49 @@
     "audio": "./song.mp3",
     "measures": [
         { "bpm": 190, "beatCount": 4, "notes": [ 
-            {"position": 0.0, "leftLayer": 2, "rightLayer": 3, "type": "normal"},
-            {"position": 4.0, "leftLayer": 2, "rightLayer": 3, "type": "normal"},
-            {"position": 0.0, "endPosition": 4.0, "leftLayer": 1, "rightLayer": 1, "type": "hold"}
+            {"position": 3.5, "leftLayer": 7, "rightLayer": 9, "type": "normal"},
+            {"position": 3.75, "leftLayer": 4, "rightLayer": 6, "type": "normal"}
         ] },
         { "bpm": 190, "beatCount": 4, "notes": [ 
-            
+            {"position": 0.0, "leftLayer": 1, "rightLayer": 3, "type": "normal"},
+            {"position": 0.0, "leftLayer": 10, "rightLayer": 12, "type": "normal"},
+            {"position": 0.5, "leftLayer": 7, "rightLayer": 9, "type": "normal"},
+            {"position": 1.0, "leftLayer": 1, "rightLayer": 3, "type": "normal"},
+            {"position": 1.0, "leftLayer": 10, "rightLayer": 12, "type": "normal"},
+            {"position": 1.5, "leftLayer": 4, "rightLayer": 6, "type": "normal"},
+            {"position": 2.0, "leftLayer": 1, "rightLayer": 3, "type": "normal"},
+            {"position": 2.0, "leftLayer": 10, "rightLayer": 12, "type": "normal"},
+            {"position": 2.5, "leftLayer": 7, "rightLayer": 9, "type": "normal"},
+            {"position": 3.0, "leftLayer": 1, "rightLayer": 3, "type": "normal"},
+            {"position": 3.0, "leftLayer": 10, "rightLayer": 12, "type": "normal"},
+            {"position": 3.5, "leftLayer": 4, "rightLayer": 6, "type": "normal"}
+        ] },
+        { "bpm": 190, "beatCount": 4, "notes": [ 
+            {"position": 0.0, "leftLayer": 1, "rightLayer": 3, "type": "normal"},
+            {"position": 0.0, "leftLayer": 10, "rightLayer": 12, "type": "normal"},
+            {"position": 0.5, "leftLayer": 7, "rightLayer": 9, "type": "normal"},
+            {"position": 1.0, "leftLayer": 1, "rightLayer": 3, "type": "normal"},
+            {"position": 1.0, "leftLayer": 10, "rightLayer": 12, "type": "normal"},
+            {"position": 1.5, "leftLayer": 4, "rightLayer": 6, "type": "normal"},
+            {"position": 2.0, "leftLayer": 1, "rightLayer": 3, "type": "normal"},
+            {"position": 2.0, "leftLayer": 10, "rightLayer": 12, "type": "normal"},
+            {"position": 2.5, "leftLayer": 7, "rightLayer": 9, "type": "normal"},
+            {"position": 3.0, "leftLayer": 1, "rightLayer": 3, "type": "normal"},
+            {"position": 3.0, "leftLayer": 10, "rightLayer": 12, "type": "normal"},
+            {"position": 3.5, "leftLayer": 4, "rightLayer": 6, "type": "normal"}
+        ] },
+        { "bpm": 190, "beatCount": 4, "notes": [ 
+            {"position": 0.0, "leftLayer": 1, "rightLayer": 3, "type": "normal"},
+            {"position": 0.5, "leftLayer": 4, "rightLayer": 6, "type": "normal"},
+            {"position": 1.0, "leftLayer": 7, "rightLayer": 9, "type": "normal"},
+            {"position": 1.5, "leftLayer": 10, "rightLayer": 12, "type": "normal"},
+            {"position": 2.0, "leftLayer": 1, "rightLayer": 4, "type": "normal"},
+            {"position": 2.25, "leftLayer": 6, "rightLayer": 8, "type": "normal"},
+            {"position": 2.5, "leftLayer": 4, "rightLayer": 6, "type": "normal"},
+            {"position": 2.75, "leftLayer": 8, "rightLayer": 9, "type": "normal"},
+            {"position": 3.0, "leftLayer": 5, "rightLayer": 8, "type": "normal"},
+            {"position": 3.5, "leftLayer": 1, "rightLayer": 3, "type": "normal"},
+            {"position": 3.5, "leftLayer": 5, "rightLayer": 8, "type": "normal"}
         ] }
     ]
 }
